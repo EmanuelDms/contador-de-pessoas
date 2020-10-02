@@ -7,5 +7,5 @@ App em Flutter para contagem de pessoas em um estabelecimento.
 - [x] Entre 0 e 10, exibe 'Pode Entrar!'
 - [x] Menor que 10, exibe 'Mundo invertido?!'
 
-## 📱 Screenshot
+## 📱 Screenshot (GIF)
 <img src=".github/demo.gif" alt="Contador de Pessoas!" height="420px" />
