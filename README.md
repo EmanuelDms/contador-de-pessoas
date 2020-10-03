@@ -1,4 +1,4 @@
-# App Contador de Pessoas
+# App Contador de Pessoas - Testes!
 
 App em Flutter para contagem de pessoas em um estabelecimento.
 
