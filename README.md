@@ -1,5 +1,5 @@
 # App Contador de Pessoas
-_OBS: Este App pertence ao ![Curso da Udemy de Flutter](https://www.udemy.com/share/101WimAEAYeFZXQn0J/), feito para fins didáticos._
+_OBS: Este App pertence ao [Curso da Udemy de Flutter](https://www.udemy.com/share/101WimAEAYeFZXQn0J/), feito para fins didáticos._
 
 App em Flutter para contagem de pessoas em um estabelecimento.
 
